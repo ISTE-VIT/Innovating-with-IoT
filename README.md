@@ -9,6 +9,8 @@
 
 An interactive webinar that involves interfacing sensors like DHT11 to build a Weather Station. This will show the temperature and humidity of the surroundings. Participants will learn about the sensor at the base level, fundamentals of IoT, how to interface sensors with NodeMCU and how to push and fetch the real-time weather values from sensors to the cloud. Finally, they will get a clear understanding of ThingSpeak and how to visualize numerical data.
 
+YouTube Link: https://www.youtube.com/watch?v=iEQEQKH82jE
+
 
 ## Components
 ### Using Pure Electronics
